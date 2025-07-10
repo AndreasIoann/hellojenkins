@@ -4,7 +4,7 @@ pipeline {
 	stages {
 		stage('Clone Repo'){
 			steps {
-				echo 'Clone repository...' 
+				echo 'Clone repository...'
 
 	}
 }
