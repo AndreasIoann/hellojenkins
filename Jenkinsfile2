@@ -11,7 +11,7 @@ pipeline {
 
 	stage('Run Script') {
 		steps {
-			sh './helloWorld.sh'
+			sh './helloWorld2.sh'
 			}
 		}
 	}
